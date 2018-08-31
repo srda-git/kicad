@@ -1,0 +1,2 @@
+# kicad
+Eigene KiCAD - Bibliotheken
